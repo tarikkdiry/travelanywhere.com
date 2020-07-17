@@ -1,3 +1,21 @@
+@import url('https://fonts.google.com/specimen/Roboto#standard-styles');
+@import url('https://fonts.google.com/specimen/Space+Mono?query=space');
+
+$background: #143259;
+$accent: #D95A2B;
+
 html {
-    background-color: #143259;
+    background-color: $background;
+}
+
+h1 {
+    font-size: 80px;
+    color: $accent;
+    font-family: 'Roboto';
+}
+
+h2 {
+    font-size: 30px;
+    color: grey;
+    font-family: 'Roboto';
 }
