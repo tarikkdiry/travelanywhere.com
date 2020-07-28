@@ -1,5 +1,5 @@
 import React from "react";
-import Screen from "../../../assets/travel_anywhere_screen.png";
+import Screen from "../../../../public/images/travel_anywhere_screenshot.png";
 import styles from "./index.module.scss";
 
 const AppImage = () => {
