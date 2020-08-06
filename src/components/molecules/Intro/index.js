@@ -8,7 +8,7 @@ const Intro = () => {
     return (
         <div className={styles.container}>
             <Title title="Travel Anywhere"></Title>
-            <Description description="Elevate your travel game."></Description>
+            <Description description="Elevate your travel game. Coming soon to iOS!"></Description>
             <div className={styles.screenShot}>
                 <ScreenShot></ScreenShot>
             </div>
